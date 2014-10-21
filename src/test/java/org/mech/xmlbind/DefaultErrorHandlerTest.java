@@ -8,8 +8,6 @@ import org.mech.xmlbind.DefaultErrorHandler;
 import org.xml.sax.SAXException;
 import org.xml.sax.SAXParseException;
 
-
-
 public class DefaultErrorHandlerTest {
 
 	private DefaultErrorHandler handler;
